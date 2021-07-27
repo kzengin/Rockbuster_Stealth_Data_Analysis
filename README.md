@@ -27,4 +27,4 @@ the main questions they’d like to answer:
 *Data set:* http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 ## Data Visualisation
-Here is the link to view the visuals from the poject in Tableau: https://public.tableau.com/app/profile/kerim.zengin/viz/Task3_10-PresentingSQLResults/Story1
+Here is the link to view the visuals from the project in Tableau: https://public.tableau.com/app/profile/kerim.zengin/viz/Task3_10-PresentingSQLResults/Story1
