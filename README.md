@@ -20,3 +20,10 @@ the main questions they’d like to answer:
 ● Where are customers with a high lifetime value based?
 
 ● Do sales figures vary between geographic regions?
+
+## Resources
+*Program used:* pgAdmin 4
+*Data set:* http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+
+## Data Visualisation
+Here is the link to view the visuals from the poject in Tableau: https://public.tableau.com/app/profile/kerim.zengin/viz/Task3_10-PresentingSQLResults/Story1
