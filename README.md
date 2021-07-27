@@ -1,2 +1,2 @@
 # SQL-Projects
-A SQL based project to answer some business questions asked by different departments
+This repository will contain all SQL based projects, which involves collecting, cleaning data and performing EDA.
