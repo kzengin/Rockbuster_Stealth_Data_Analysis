@@ -23,6 +23,7 @@ the main questions they’d like to answer:
 
 ## Resources
 *Program used:* pgAdmin 4
+
 *Data set:* http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 ## Data Visualisation
